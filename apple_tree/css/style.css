@@ -1,0 +1,15 @@
+/* CSS Document */
+.containner1{ width:1520px;background:url(../images/icon-07.png) no-repeat 250px 35px; margin:0 auto;}
+.containner1 h1{ font-size:16px; text-align:center; margin:5px auto;}
+.containner1 #land{ width:960px; height:630px; background: url(../images/icon-08.png) no-repeat -20px 195px; position:relative; margin:0 auto;}
+#land img{ width:78px; height:77px; background:url(../images/icon-09.png) no-repeat; position:absolute}
+
+
+.containner2{ width:1454px; height:600px;  overflow:hidden;}
+.containner2 h1{ font-size:16px; text-align:center; margin:5px auto;}
+.containner2 .bottom{ width:1520px; height:569px;background:url(../images/icon-03.png) no-repeat ; }
+.containner2 .bottom #left{  width:1002px; height:569px; float:left; background:url(../images/icon-02.png) no-repeat 250px 150px;}
+
+.containner2 .bottom #tab{  float:left; margin: 30px 40px; border:1px solid #000; border-collapse:collapse; display:none;}
+.containner2 .bottom #tab td{ width:150px; height:30px; border:1px solid #000; text-align:center;}
+
